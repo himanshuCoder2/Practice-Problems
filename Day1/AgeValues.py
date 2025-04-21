@@ -1,8 +1,8 @@
-a=int(input('Enter the first age:-'))
+d=int(input('Enter the first age:-'))
 b=int(input('Enter the Second age:-'))
 c=int(input('Enter the Third age:-'))
 
-max=a
+max=d
 if max<b:
     max=b
 if max <c:
